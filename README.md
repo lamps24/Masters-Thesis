@@ -1,6 +1,8 @@
 # Research
-Explanation of Code used for Simulation Study
-Background
+Explanation of Code used for Simulation Study - 
+
+[Background]
+
 I am performing a simulation study to compare methods in their ability to estimate the causal impact of a hypothetical treatment when the assignment to the treatment group is not randomized. 
 
 
