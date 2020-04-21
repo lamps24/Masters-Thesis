@@ -1,5 +1,5 @@
 ###############################################
-# 1.0 - Generate Data
+# 1.0 - Non-linear Version of Generate Data
 # 
 # Function called gen.data() that generates data from a 
 # multivariate normal distribution. 
