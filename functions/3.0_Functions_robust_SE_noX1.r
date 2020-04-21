@@ -1,6 +1,8 @@
 ###############################################
 # 3.0 - Functions (updated for robust SE calculation)
 # 
+# *** removes X1 from the estimation ***
+#
 # Function called psm() that estimates the treatment effect from the data 
 # generated in 1.0_Generate_data using various methods
 #
